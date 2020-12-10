@@ -36,6 +36,12 @@
 		</repository>
 	</distributionManagement>
 
+	<scm>
+		<connection>scm:git:https://github.com/marcoasp/nexusapp.git</connection>
+		<url>https://github.com/marcoasp/nexusapp</url>
+		<developerConnection>scm:git:https://github.com/marcoasp/nexusapp.git</developerConnection>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
